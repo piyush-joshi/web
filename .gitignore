@@ -1,0 +1,7 @@
+coverage
+html-report
+node_modules
+temp
+dist
+
+
